@@ -1,4 +1,4 @@
-Data Analyst Portfolio Project Repository
+# Data Analyst Portfolio Project Repository
 
 This repository contains my analyses of various data sets. I use a variety of methods to present my findings, including:
 
