@@ -6,4 +6,4 @@ Tables: to summarize my data and findings. Tables are a quick and easy way to pr
 
 Figures: to visualize my data and findings. Figures can be more effective than tables at communicating complex relationships between variables. 
 
-Text: I use text to explain my methods and findings in detail. Text is a good way to provide context and background information about my analyses.
+Text: to explain my methods and findings in detail. Text is a good way to provide context and background information about my analyses.
