@@ -1,5 +1,5 @@
-README.md
 Data Analyst Portfolio Project Repository
+
 This repository contains my analyses of various data sets. I use a variety of methods to present my findings, including:
 
 Tables: to summarize my data and findings. Tables are a quick and easy way to present large amounts of data in a clear and concise way.
